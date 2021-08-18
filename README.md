@@ -1,4 +1,4 @@
-**THE SPARKS FOUNDATION**
+## THE SPARKS FOUNDATION
 
 *#Task 3 : payment gateway integration* <h1>
 
